@@ -27,7 +27,7 @@ Integrated Development Environment
 
 ### Context Diagram
 
-[Image comes here]
+![context](https://user-images.githubusercontent.com/77938740/108273530-aa5d8280-7141-11eb-840b-68a74d8d935f.png)
 
 ## 2.2. Non Functional Requirements.
 
