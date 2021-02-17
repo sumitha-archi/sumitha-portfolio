@@ -16,18 +16,17 @@ Integrated Development Environment
 
 ## 2.1 Functional Requirements.
 
-1. The home page should have a personalized logo ,photo and brief introduction about me.
-2. List and brief description of the most relevant projects done and the experience.
-3. Link to download the latest resume.
-4. The list of skills for a Full stack developer.
-5. Links to a Bio page or About me page, Education details, Contact me, Detailed project description.
-6. Link to the awards and recognitions received.
-7. Social media accounts (eg : linkedin)
+The home page should have a personalized logo ,photo and brief introduction about me.
+List and brief description of the most relevant projects done and the experience.
+Link to download the latest resume.
+The list of skills for a Full stack developer.
+Links to a Bio page or About me page, Education details, Contact me, Detailed project description.
+Link to the awards and recognitions received.
+Social media accounts (eg : linkedin)
 
 
 ### Context Diagram
 
-[Image comes here]
 
 ## 2.2. Non Functional Requirements.
 
@@ -45,8 +44,8 @@ Free Space: 10GB
 
 ## 3.1. Layout
 
-* A header with all the links to other pages.
-* A footer with the links and the terms and conditions.
+A header with all the links to other pages.
+A footer with the links and the terms and conditions.
 
 ## 3.2. Responsive Design
 
