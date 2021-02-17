@@ -31,7 +31,6 @@ The portfolio website is to give a prospective employer a sense of who you are, 
 ### Context Diagram
 <br>
 
-
 ![context](https://user-images.githubusercontent.com/77938740/108273530-aa5d8280-7141-11eb-840b-68a74d8d935f.png)
 <br>
 ## 2.2. Non Functional Requirements.
