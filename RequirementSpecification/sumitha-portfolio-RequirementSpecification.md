@@ -6,11 +6,14 @@ The portfolio website is to give a prospective employer a sense of who you are, 
 ## 1.2. Document Conventions
 
 
+|       |  |
+| ----------- | ----------- |
+| OS      | Operating System|
+| IDE   | Integrated Development Environment|
+|  | |
 
-OS
-Operating System
-IDE
-Integrated Development Environment
+
+<br>
 
 # 2.REQUIREMENTS
 
@@ -23,12 +26,14 @@ Integrated Development Environment
 5. Links to a Bio page or About me page, Education details, Contact me, Detailed project description.
 6. Link to the awards and recognitions received.
 7. Social media accounts (eg : linkedin)
-
+<br>
 
 ### Context Diagram
+<br>
 
-[Image comes here]
 
+![context](https://user-images.githubusercontent.com/77938740/108273530-aa5d8280-7141-11eb-840b-68a74d8d935f.png)
+<br>
 ## 2.2. Non Functional Requirements.
 
 1. The website should be responsive and should support all major browsers.
@@ -41,6 +46,8 @@ IDE: Visual Studio Code
 3. Hardware requirements.
 Memory: 4GB
 Free Space: 10GB
+<br><br>
+
 # 3. CONTENT AND NAVIGATION
 
 ## 3.1. Layout
