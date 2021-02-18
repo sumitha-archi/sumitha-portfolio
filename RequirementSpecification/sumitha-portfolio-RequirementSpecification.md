@@ -37,13 +37,13 @@ The portfolio website is to give a prospective employer a sense of who you are, 
 
 1. The website should be responsive and should support all major browsers.
 
-2. Software Requirements
-OS:  Windows 10 or MacOS
+2. **Software Requirements**
+<br>OS:  Windows 10 or MacOS
 Technologies and frameworks: ReactJS, SASS for CSS,HTML,NodeJS
 IDE: Visual Studio Code
 
-3. Hardware requirements.
-Memory: 4GB
+3. **Hardware requirements.**
+<br>Memory: 4GB
 Free Space: 10GB
 <br><br>
 
